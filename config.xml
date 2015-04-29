@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>admincustomattributegenerator</name>
+	<displayName><![CDATA[Enhanced combination generator]]></displayName>
+	<version><![CDATA[1.1.1]]></version>
+	<description><![CDATA[Allow to generate/edit attribute combinations without delete the existings and assign images to them]]></description>
+	<author><![CDATA[Codeko]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
